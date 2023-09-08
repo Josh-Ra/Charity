@@ -1,4 +1,4 @@
-h1 {
+#header {
     font-size: xx-large;
     font-style: italic;
     box-align: center;
@@ -11,16 +11,13 @@ h1 {
     border-radius: 5px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
   }
-  body{
-    background-color: aliceblue;
-  }
-  img{
+  .image{
     margin: auto;
     max-width: 40%;
     border: 5px solid beige;
     padding: 10px;
   }
-  p{
+  .p1{
     font-size: larger;
     font-style: italic;
   }
