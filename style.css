@@ -28,11 +28,6 @@
     padding: 10px;
     
   }
-  iframe{
-    width: 50%;
-    height: 50%;
-    border: 0;
-  }
 
   @media only screen and (max-width: 768px) {
     container {
